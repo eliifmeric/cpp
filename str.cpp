@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-//--------------------Q1-----------------
+
 using namespace std;
 
 int main()
